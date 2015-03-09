@@ -211,6 +211,13 @@
            :abstract-copy-seq
            :abstract-replace
            :abstract-fill
+           :abstract-ndequeue
+           :abstract-ndequeue-head
+           :abstract-ndequeue-tail
+           :abstract-nenque
+           :abstract-nenque-head
+           :abstract-nenque-new
+           :abstract-nenque-tail
 
            :make-sequence-iterator
            :iterator-pointer
